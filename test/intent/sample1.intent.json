@@ -1,7 +1,7 @@
 {
-"utterance":"Get me details",
+"utterance":"MTX details",
 "intent_type":"DeEventIntent",
 "intent":{
-"DeEventKeyword":"Get me details"
+"DeEventKeyword":"MTX details"
 }
 }
