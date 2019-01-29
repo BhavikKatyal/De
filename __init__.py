@@ -34,7 +34,7 @@ class DeSkill(MycroftSkill):
 
     def initialize(self):
 
-        random_event_intent = IntentBuilder("DeEventIntent"). \
+        de_event_intent = IntentBuilder("DeEventIntent"). \
             require("DeEventKeyword").build()
         self.register_intent(de_event_intent, self.handle_de_event_intent)
 
