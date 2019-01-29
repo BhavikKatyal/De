@@ -73,4 +73,4 @@ class DeSkill(MycroftSkill):
 
 
 def create_skill():
-    return TodayHistorySkill()
+    return DeSkill()
