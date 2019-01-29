@@ -1,0 +1,7 @@
+{
+"utterance":"Get me details of Hridul",
+"intent_type":"DeEventIntent",
+"intent":{
+"DeEventKeyword":"Get me details of Hridul"
+}
+}
