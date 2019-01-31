@@ -1,7 +1,7 @@
 {
-"utterance":"introduce MTX",
+"utterance":"Hi Bhavik",
 "intent_type":"DeEventIntent",
 "intent":{
-"DeEventKeyword":"introduce MTX"
+"DeEventKeyword":"Hi Bhavik"
 }
 }
